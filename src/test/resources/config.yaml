@@ -1,0 +1,11 @@
+credentials:
+ login: standard_user
+ passwd: secret_sauce
+
+initWeb:
+ webAddress: https://www.saucedemo.com
+
+userData:
+ firstName: Adam
+ lastName: Smith
+ zipCode: LV1000
